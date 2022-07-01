@@ -23,9 +23,3 @@ function multiply(){
 	let mul = num1 * num2
 	document.getElementById("sum-el").textContent = "SUM: " + mul
 }
-
-
-
-
-
-
